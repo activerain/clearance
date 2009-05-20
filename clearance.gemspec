@@ -1,7 +1,7 @@
 --- !ruby/object:Gem::Specification 
 name: clearance
 version: !ruby/object:Gem::Version 
-  version: 0.6.6a
+  version: 0.6.6
 platform: ruby
 authors: 
 - Dan Croak
